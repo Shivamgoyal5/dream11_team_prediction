@@ -23,7 +23,7 @@ To do so:-
 ----
 `STEP 2` - Cloning the Repository :
 ```
-    git clone https://github.com/jayeshbhandarkar/Web-Based-IPL-Team-Prediction.git
+    git clone https://github.com/Shivamgoyal5/dream11_team_prediction.git
     cd Web-Based-IPL-Team-Prediction
 ```
 ----
